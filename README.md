@@ -1,0 +1,1 @@
+# A rest api using the django rest framework. One can do all the crud operations using this api. The api displays information about movies stored in the sqlite database of the project.
